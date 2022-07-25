@@ -13,7 +13,7 @@ main(){
     'BottomCenter': 1,
     'BottomRight': 0
   };
-  print('Welcome to XO Game');
+  print('Welcome to Tic Tac Toe Game');
 
   //Start of the game
   playerTurn = playerTurn == 1 ? 2 : 1;
